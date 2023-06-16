@@ -36,7 +36,7 @@ import "animate.css";
       <div class="flex w-[100%] h-10 leading-4 mt-10 space-x-2">
         <div class="w-20">
           <img
-            src="../assets/square-js (1).svg"
+            src="../assets/square-js.svg"
             class="animate__animated animate__pulse animate__infinite w-10 h-10"
           />
           <div class="text-lg uppercase font-bold">js</div>
