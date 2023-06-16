@@ -1,0 +1,73 @@
+{
+    "projects":[
+         {
+        "id":0,
+        "projecName":"bankist",
+        "projectImg":"/src/assets/projectImg/bankist-app.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":" This is a bank dash board displaying acct details and trasaction username:fa, password:3333"
+    },
+    {
+        "id":1,
+        "projecName":"e-trans card",
+        "projectImg":"/src/assets/projectImg/e-trans-card.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"This is an electronic transaction card with validation, also your card input display in real time. "
+    },
+    {
+        "id":2,
+        "projecName":"tesla clone",
+        "projectImg":"/src/assets/projectImg/tesla-clone.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"This is a tesla web clone with vue"
+       
+    },
+    {
+        "id":3,
+        "projecName":"Wazo agency",
+        "projectImg":"/src/assets/projectImg/wazo-agency.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"This is a full website for an agency consultant company fully functional"
+    },
+   
+    {
+        "id":4,
+        "projecName":"todo app",
+        "projectImg":"/src/assets/projectImg/todo-app.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"This is a todo webapp using vue"
+    },
+    {
+        "id":5,
+        "projecName":"NFT sign in/up page",
+        "projectImg":"/src/assets/projectImg/nft-login.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"This is a NFT login landing page with validation"
+    },
+    {
+        "id":6,
+        "projecName":"weather app",
+        "projectImg":"/src/assets/projectImg/weather-app.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"This is a todo webapp using vue"
+       
+    },
+    {
+        "id":6,
+        "projecName":"my portfolio",
+        "projectImg":"/src/assets/projectImg/portfolio.png",
+        "githubLink":"",
+        "siteLink":"",
+        "readMe":"Welcome once again enjoy your time"
+       
+    }
+    ]
+   
+}
