@@ -35,12 +35,12 @@
     },
    
     {
-        "id":4,
-        "projecName":"todo app",
-        "projectImg":"/src/assets/projectImg/todo-app.png",
-        "githubLink":"",
-        "siteLink":"",
-        "readMe":"This is a todo webapp using vue"
+      "id": 4,
+      "projecName": "Dees rental",
+      "projectImg": "/src/assets/projectImg/deesrental.png",
+      "githubLink": "",
+      "siteLink": "",
+      "readMe": "This is a todo real estate agecy website, showcasing houses, and there prices"
     },
     {
         "id":5,
