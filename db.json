@@ -3,7 +3,7 @@
       {
         "id": 0,
         "projecName": "bankist",
-        "projectImg": "../assets/projectImg/bankist-app.png",
+        "projectImg": "../src/assets/projectImg/bankist-app.png",
         "githubLink": "https://github.com/Fahmedo/bankist-app",
         "siteLink": "bankit-fit-app.netlify.app",
         "readMe": " This is a bank dash board displaying acct details and trasaction username:fa, password:3333"
@@ -11,7 +11,7 @@
       {
         "id": 1,
         "projecName": "e-trans card",
-        "projectImg": "../assets/projectImg/e-trans-card.png",
+        "projectImg": "../src/assets/projectImg/e-trans-card.png",
         "githubLink": "https://github.com/Fahmedo/E-payment-card",
         "siteLink": "e-pay-option.netlify.app/",
         "readMe": "This is an electronic transaction card with validation, also your card input display in real time. "
@@ -19,7 +19,7 @@
       {
         "id": 2,
         "projecName": "tesla clone",
-        "projectImg": "../assets/projectImg/tesla-clone.png",
+        "projectImg": "../src/assets/projectImg/tesla-clone.png",
         "githubLink": "",
         "siteLink": "",
         "readMe": "This is a tesla web clone with vue"
@@ -27,7 +27,7 @@
       {
         "id": 3,
         "projecName": "Wazo agency",
-        "projectImg": "../assets/projectImg/wazo-agency.png",
+        "projectImg": "../src/assets/projectImg/wazo-agency.png",
         "githubLink": "https://github.com/Fahmedo/WASO-PROJECT",
         "siteLink": "wasoredesing.netlify.app",
         "readMe": "This is a full website for an agency consultant company fully functional"
@@ -36,7 +36,7 @@
       {
         "id": 4,
         "projecName": "Dees rental",
-        "projectImg": "../assets/projectImg/deesrental.jpg",
+        "projectImg": "../src/assets/projectImg/deesrental.jpg",
         "githubLink": "https://github.com/Fahmedo/Dees-rental",
         "siteLink": "deesrentalsproject.netlify.app/",
         "readMe": "This is a todo real estate agecy website, showcasing houses, and there prices"
@@ -44,7 +44,7 @@
       {
         "id": 5,
         "projecName": "NFT sign in/up page",
-        "projectImg": "../assets/projectImg/nft-login.png",
+        "projectImg": "../src/assets/projectImg/nft-login.png",
         "githubLink": "https://github.com/Fahmedo/NFT-WITH-VUE",
         "siteLink": "vue-nft-form-validation.netlify.app/",
         "readMe": "This is a NFT login landing page with validation"
@@ -52,7 +52,7 @@
       {
         "id": 6,
         "projecName": "weather app",
-        "projectImg": "../assets/projectImg/weather-app.png",
+        "projectImg": "../src/assets/projectImg/weather-app.png",
         "githubLink": "https://github.com/Fahmedo/weather-app",
         "siteLink": "wedayou.netlify.app/",
         "readMe": "This is a todo webapp using vue"
@@ -60,7 +60,7 @@
       {
         "id": 6,
         "projecName": "my portfolio",
-        "projectImg": "../assets/projectImg/portfolio.png",
+        "projectImg": "../src/assets/projectImg/portfolio.png",
         "githubLink": "https://github.com/Fahmedo/my-portfolio",
         "siteLink": "my-portfolio-omega-self.vercel.app",
         "readMe": "Welcome once again enjoy your time"
