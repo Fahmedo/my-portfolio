@@ -26,7 +26,7 @@ return{
     <div class="h-72 w-72 bg-[#fff] pt-2 pb-4 px-5 group shadow-md " v-for="d in Db" :key="d.id">
       <div class="text-blue1 capitalize font-bold"> {{d.projecName}}</div>
      
-    <img :srcset="d.projectImg" class="w-[100%] h-[200px] object-contain  group-hover:scale-[1.03] transition-transform" >
+    <img :src="d.projectImg"  class="w-[100%] h-[200px] object-contain  group-hover:scale-[1.03] transition-transform" >
   
       <div class="group-hover:visible invisible">
           <button class="bg-blue9 m-1 p-2 rounded-full">
