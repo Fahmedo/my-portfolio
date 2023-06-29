@@ -3,7 +3,7 @@
       {
         "id": 0,
         "projecName": "bankist",
-        "projectImg": "../src/assets/projectImg/bankist-app.png",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/bankist-app.png?alt=media&token=ae6d3c8e-ed1a-4d6a-a445-347cf5f0fcfe",
         "githubLink": "https://github.com/Fahmedo/bankist-app",
         "siteLink": "bankit-fit-app.netlify.app",
         "readMe": " This is a bank dash board displaying acct details and trasaction username:fa, password:3333"
@@ -11,7 +11,7 @@
       {
         "id": 1,
         "projecName": "e-trans card",
-        "projectImg": "../src/assets/projectImg/e-trans-card.png",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/e-trans-card.png?alt=media&token=14e1ff4e-ff46-4c2b-9c8c-c98be027a32a",
         "githubLink": "https://github.com/Fahmedo/E-payment-card",
         "siteLink": "e-pay-option.netlify.app/",
         "readMe": "This is an electronic transaction card with validation, also your card input display in real time. "
@@ -19,15 +19,15 @@
       {
         "id": 2,
         "projecName": "tesla clone",
-        "projectImg": "../src/assets/projectImg/tesla-clone.png",
-        "githubLink": "",
-        "siteLink": "",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/tesla-clone.png?alt=media&token=462a1d6a-447a-4515-9ccb-8c621b1f0141",
+        "githubLink": "https://github.com/Fahmedo/tesla-clone",
+        "siteLink": "tesla-clone-fahmedo.vercel.app",
         "readMe": "This is a tesla web clone with vue"
       },
       {
         "id": 3,
         "projecName": "Wazo agency",
-        "projectImg": "../src/assets/projectImg/wazo-agency.png",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/wazo-agency.png?alt=media&token=7c4fe454-9b96-47af-9178-8505c5ce551d",
         "githubLink": "https://github.com/Fahmedo/WASO-PROJECT",
         "siteLink": "wasoredesing.netlify.app",
         "readMe": "This is a full website for an agency consultant company fully functional"
@@ -36,7 +36,7 @@
       {
         "id": 4,
         "projecName": "Dees rental",
-        "projectImg": "../src/assets/projectImg/deesrental.jpg",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/deesrental.jpg?alt=media&token=1d37a8f5-6529-4de0-b2b7-5cccb6360c8d",
         "githubLink": "https://github.com/Fahmedo/Dees-rental",
         "siteLink": "deesrentalsproject.netlify.app/",
         "readMe": "This is a todo real estate agecy website, showcasing houses, and there prices"
@@ -44,7 +44,7 @@
       {
         "id": 5,
         "projecName": "NFT sign in/up page",
-        "projectImg": "../src/assets/projectImg/nft-login.png",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/nft-login.png?alt=media&token=c771fcd9-24e4-4011-83a8-687b5e17de4d",
         "githubLink": "https://github.com/Fahmedo/NFT-WITH-VUE",
         "siteLink": "vue-nft-form-validation.netlify.app/",
         "readMe": "This is a NFT login landing page with validation"
@@ -52,7 +52,7 @@
       {
         "id": 6,
         "projecName": "weather app",
-        "projectImg": "../src/assets/projectImg/weather-app.png",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/weather-app.png?alt=media&token=a6c4cb76-410f-48ec-9c76-0ec85b64c423",
         "githubLink": "https://github.com/Fahmedo/weather-app",
         "siteLink": "wedayou.netlify.app/",
         "readMe": "This is a todo webapp using vue"
@@ -60,7 +60,7 @@
       {
         "id": 6,
         "projecName": "my portfolio",
-        "projectImg": "../src/assets/projectImg/portfolio.png",
+        "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/portfolio.png?alt=media&token=48f901d8-3791-4c5c-8f84-87f4cea99365",
         "githubLink": "https://github.com/Fahmedo/my-portfolio",
         "siteLink": "my-portfolio-omega-self.vercel.app",
         "readMe": "Welcome once again enjoy your time"
