@@ -10,7 +10,7 @@ import ContactView from '../components/contact.vue'
     <div class="text-center mt-10 lg:md:mt-0  p-10 w-[100%] inline-block text-[#4169E1] font-bold  ">
       <img src="../assets/arrow.svg" class="absolute lg:md:inline-block  hidden left-[35%] bottom-[30%] animate__animated animate__zoomIn" />
 
-      <h1 class="text-1xl">Hi there, I'm <span class="font-mono text-[#40E0D0] text-3xl uppercase">Faruq ahmed olaitan</span></h1>
+      <h1 class="text-1xl">Hi there, I'm <span class="font-mono text-[#f04f0f] text-3xl uppercase ">Faruq ahmed olaitan</span></h1>
       <h3>Front-End Developer</h3>
       <p>
         As a skilled front-end developer, I am dedicated to turning ideas into
