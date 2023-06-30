@@ -5,7 +5,7 @@
         "projecName": "bankist",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/bankist-app.png?alt=media&token=ae6d3c8e-ed1a-4d6a-a445-347cf5f0fcfe",
         "githubLink": "https://github.com/Fahmedo/bankist-app",
-        "siteLink": "bankit-fit-app.netlify.app",
+        "siteLink": "https://bankit-fit-app.netlify.app",
         "readMe": " This is a bank dash board displaying acct details and trasaction username:fa, password:3333"
       },
       {
@@ -13,7 +13,7 @@
         "projecName": "e-trans card",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/e-trans-card.png?alt=media&token=14e1ff4e-ff46-4c2b-9c8c-c98be027a32a",
         "githubLink": "https://github.com/Fahmedo/E-payment-card",
-        "siteLink": "e-pay-option.netlify.app/",
+        "siteLink": "https://e-pay-option.netlify.app/",
         "readMe": "This is an electronic transaction card with validation, also your card input display in real time. "
       },
       {
@@ -21,7 +21,7 @@
         "projecName": "tesla clone",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/tesla-clone.png?alt=media&token=462a1d6a-447a-4515-9ccb-8c621b1f0141",
         "githubLink": "https://github.com/Fahmedo/tesla-clone",
-        "siteLink": "tesla-clone-fahmedo.vercel.app",
+        "siteLink": "https://tesla-clone-fahmedo.vercel.app",
         "readMe": "This is a tesla web clone with vue"
       },
       {
@@ -29,7 +29,7 @@
         "projecName": "Wazo agency",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/wazo-agency.png?alt=media&token=7c4fe454-9b96-47af-9178-8505c5ce551d",
         "githubLink": "https://github.com/Fahmedo/WASO-PROJECT",
-        "siteLink": "wasoredesing.netlify.app",
+        "siteLink": "https://wasoredesing.netlify.app",
         "readMe": "This is a full website for an agency consultant company fully functional"
       },
 
@@ -38,7 +38,7 @@
         "projecName": "Dees rental",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/deesrental.jpg?alt=media&token=1d37a8f5-6529-4de0-b2b7-5cccb6360c8d",
         "githubLink": "https://github.com/Fahmedo/Dees-rental",
-        "siteLink": "deesrentalsproject.netlify.app/",
+        "siteLink": "https://deesrentalsproject.netlify.app/",
         "readMe": "This is a todo real estate agecy website, showcasing houses, and there prices"
       },
       {
@@ -46,7 +46,7 @@
         "projecName": "NFT sign in/up page",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/nft-login.png?alt=media&token=c771fcd9-24e4-4011-83a8-687b5e17de4d",
         "githubLink": "https://github.com/Fahmedo/NFT-WITH-VUE",
-        "siteLink": "vue-nft-form-validation.netlify.app/",
+        "siteLink": "https://vue-nft-form-validation.netlify.app/",
         "readMe": "This is a NFT login landing page with validation"
       },
       {
@@ -54,7 +54,7 @@
         "projecName": "weather app",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/weather-app.png?alt=media&token=a6c4cb76-410f-48ec-9c76-0ec85b64c423",
         "githubLink": "https://github.com/Fahmedo/weather-app",
-        "siteLink": "wedayou.netlify.app/",
+        "siteLink": "https://wedayou.netlify.app/",
         "readMe": "This is a todo webapp using vue"
       },
       {
@@ -62,7 +62,7 @@
         "projecName": "my portfolio",
         "projectImg": "https://firebasestorage.googleapis.com/v0/b/task-app-5d915.appspot.com/o/portfolio.png?alt=media&token=48f901d8-3791-4c5c-8f84-87f4cea99365",
         "githubLink": "https://faruqahmedolaitan.vercel.app/",
-        "siteLink": "my-portfolio-omega-self.vercel.app",
+        "siteLink": "https://my-portfolio-omega-self.vercel.app",
         "readMe": "Welcome once again enjoy your time"
       }
     ]
