@@ -7,7 +7,7 @@ import ContactView from '../components/contact.vue'
     <div
       class="lg:md:w-[100%] w-0 lg:md:h-[70vh] h-0 bg-[url(../assets/imgs/pc-svg.png)] bg-contain bg-no-repeat "
     ></div>
-    <div class="text-center mt-10 lg:md:mt-0  p-10 w-[100%] inline-block text-[#4169E1] font-bold  ">
+    <div class="text-center mt-10 lg:md:mt-0  p-10 w-[100%] inline-block text-blue1 font-bold  ">
       <img src="../assets/arrow.svg" class="absolute lg:md:inline-block  hidden left-[35%] bottom-[30%] animate__animated animate__zoomIn" />
 
       <h1 class="text-1xl">Hi there, I'm <span class="font-mono text-[#f04f0f] text-3xl uppercase ">Faruq ahmed olaitan</span></h1>

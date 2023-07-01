@@ -6,7 +6,7 @@ import "animate.css";
   <div
     class="absolute w-[100%] flex pb-10 top-0 justify-center modalBg animate__animated animate__backInUp overflow-hidden "
   >
-    <div class="w-[300px] lg:w-[500px] p-10 cardBg  ">
+    <div class="w-[300px] lg:w-[500px] p-10 cardBg mt-2  ">
       <div class="text-center text-4xl font-bold">skill</div>
       <div class="flex w-[100%] h-10 leading-4 space-x-2">
         <div class="w-20">

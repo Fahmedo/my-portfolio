@@ -1,7 +1,7 @@
 <script></script>
 <template>
   <div
-    class="absolute  h-[100vh] w-[100%] overflow-hidden scroll-smooth overflow-y-scroll  pb-10 top-0 justify-left animate__animated animate__backInUp modalBg2 text-[#fff] p-4"
+    class="absolute  h-[100vh] w-[100%] overflow-x-hidden scroll-smooth overflow-y-scroll  pb-10 top-0 justify-left animate__animated animate__backInUp modalBg2 text-[#fff] p-4"
   >
       <div class=" text-4xl font-bold text-center p-3">Experience over the years</div>
       <div class=" font-mono">
